@@ -11,20 +11,16 @@ In this showcase you'll see the following in action:
 * Obtaining Request Data
 * Generating Responses
 * Message Converters
-* Rendering Views
 * Type Conversion
 * Validation
-* Forms
-* File Upload
 * Exception Handling
 
 To get the code:
 -------------------
 Clone the repository:
 
-    $ git clone git://github.com/SpringSource/spring-mvc-sample-paolo.git
+    $ git clone [url]
 
-If this is your first time using Github, review http://help.github.com to learn the basics.
 
 To run the application:
 -------------------	
@@ -37,7 +33,3 @@ Access the deployed web application at: http://localhost:8080/spring-mvc-sample-
 
 Note:
 -------------------
-
-This showcase originated from a [blog post](http://blog.springsource.com/2010/07/22/spring-mvc-3-showcase/) and was adapted into a SpringOne presentation called [Mastering MVC 3](http://www.infoq.com/presentations/Mastering-Spring-MVC-3).
-
-A screen cast showing the showcase in action is [available in QuickTime format](http://s3.springsource.org/MVC/mvc-showcase-screencast.mov).
